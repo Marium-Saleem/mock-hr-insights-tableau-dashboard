@@ -11,7 +11,6 @@ Built for executive-level decision-making, the dashboard applies real-world logi
 
 ### 🔍 Key Insights Delivered:
 - **Hiring trends** by year, city, and department
-- **Attrition breakdown** by tenure, department, and gender
 - **Headcount and payroll dynamics** by experience and vertical
 - **Gender representation gaps** across business units
 - **New joiner/leaver trends** visualized with KPI panels
